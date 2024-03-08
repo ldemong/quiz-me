@@ -3,7 +3,7 @@ in random order, checking if the user’s answer is correct. The program will ke
 answered correctly and display the results at the end of the quiz. Quiz Me can handle multiple choice, free response,
 and true-false questions.
 
-Question bank .csv files follow this format (without headers):
+Question bank files should be named questions.csv and follow this format (without headers):
 
 |Question Type |Prompt                                          |Answer    |A       |B       |C       |D        |
 |--------------|------------------------------------------------|----------|--------|--------|--------|---------|
